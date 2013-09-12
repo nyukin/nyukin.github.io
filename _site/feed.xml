@@ -7,14 +7,6 @@
 		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>France Removes Internet Cut-Off Threat From its Anti-Piracy Law</title>
-				<description></description>
-				<pubDate>Wed, 05 Jun 2013 13:33:11 -0700</pubDate>
-				<link>http://example.org/2013/06/05/france-removes-internet-cut-off/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/france-removes-internet-cut-off/</guid>
-			</item>
-		
-			<item>
 				<title>Jekyll Documentation</title>
 				<description></description>
 				<pubDate>Wed, 05 Jun 2013 13:03:11 -0700</pubDate>
