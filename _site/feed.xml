@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Solar Theme</title>
-		<description>A stylish blog using the Solarized color palette</description>
-		<link>http://example.org</link>
-		<atom:link href="http://example.org/feed.xml" rel="self" type="application/rss+xml" />
+		<title>PocketCastle</title>
+		<description>A blog about the construction of a tiny house</description>
+		<link>http:pocketcastle.com</link>
+		<atom:link href="http:pocketcastle.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Test</title>
+				<description>&lt;p&gt;This is a test to see if my markdown post will build with Jekyll when I forget to add the date to a post.&lt;/p&gt;
+
+&lt;p&gt;Also, hello from my HHKB!&lt;/p&gt;</description>
+				<pubDate>Thu, 12 Sep 2013 00:00:00 -0700</pubDate>
+				<link>http:pocketcastle.com/2013/09/12/test/</link>
+				<guid isPermaLink="true">http:pocketcastle.com/2013/09/12/test/</guid>
+			</item>
 		
 			<item>
 				<title>Jekyll Documentation</title>
 				<description></description>
 				<pubDate>Wed, 05 Jun 2013 13:03:11 -0700</pubDate>
-				<link>http://example.org/2013/06/05/jekyll-documentation/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/jekyll-documentation/</guid>
+				<link>http:pocketcastle.com/2013/06/05/jekyll-documentation/</link>
+				<guid isPermaLink="true">http:pocketcastle.com/2013/06/05/jekyll-documentation/</guid>
 			</item>
 		
 			<item>
@@ -27,8 +37,8 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Check out the &lt;a href=&#39;http://jekyllrb.com&#39;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&#39;https://github.com/mojombo/jekyll&#39;&gt;Jekyll&amp;#8217;s GitHub repo&lt;/a&gt;.&lt;/p&gt;</description>
 				<pubDate>Wed, 05 Jun 2013 10:06:25 -0700</pubDate>
-				<link>http://example.org/2013/06/05/welcome-to-jekyll/</link>
-				<guid isPermaLink="true">http://example.org/2013/06/05/welcome-to-jekyll/</guid>
+				<link>http:pocketcastle.com/2013/06/05/welcome-to-jekyll/</link>
+				<guid isPermaLink="true">http:pocketcastle.com/2013/06/05/welcome-to-jekyll/</guid>
 			</item>
 		
 	</channel>

@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: PocketCastle 
+url: http:pocketcastle.com
+description: A blog about the construction of a tiny house 
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
